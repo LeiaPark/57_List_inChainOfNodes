@@ -3,7 +3,6 @@
   o  cargo of interest to the user
   o  reference to the next node in the list
  */
-//test
 
 public class Node {
     private Object cargoReference;
