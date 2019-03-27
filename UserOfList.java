@@ -1,7 +1,6 @@
 /**
  Test list features.
  */
-// test
 
 public class UserOfList {
     public static void main( String[] args ) {
